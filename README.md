@@ -13,4 +13,8 @@ Este proyecto puede ser de utilidad para todos aquellos que estan en busca de in
 Para ello, se muestran dos gráficos:
 
 * **Histograma basado en el Odómetro del coche**: Muestra la distribución del kilometraje de los coches en venta, permitiendo identificar patrones y tendencias en su uso.
-* **Gráfico de Dispersión (Odómetro vs Precio)**: Permite analizar la relación entre el kilometraje y el precio de los coches, facilitando la identificación de correlaciones y posibles outliers.
+* Gráfico de Dispersión (Odómetro vs Precio)**: Permite analizar la relación entre el kilometraje y el precio de los coches, facilitando la identificación de correlaciones y posibles outliers.
+
+## Render
+
+Para consultar los gráficos obtenidos, da clic aquí: [https://tripleten-project1.onrendeer.com/](https://tripleten-project1.onrendeer.com/)
