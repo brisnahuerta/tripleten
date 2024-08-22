@@ -17,4 +17,4 @@ Para ello, se muestran dos gráficos:
 
 ## Render
 
-Para consultar los gráficos obtenidos, da clic aquí: [https://tripleten-project1.onrendeer.com/](https://tripleten-project1.onrendeer.com/)
+Para consultar los gráficos obtenidos, da clic aquí: [https://tripleten-project1.onrender.com](https://tripleten-project1.onrender.com)
